@@ -1,2 +1,3 @@
 #Python
-print("Hello Github - this is my fresh project")
+python<br>print("Hello Github - this is my updated version")
+<br>print("Learning Git step by step!")<br>
